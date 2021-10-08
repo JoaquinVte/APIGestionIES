@@ -1,0 +1,14 @@
+com/ieslavereda/APIGestionIES/models/Articulo$ArticuloBuilder.class
+com/ieslavereda/APIGestionIES/dao/UbicacionesImp.class
+com/ieslavereda/APIGestionIES/controllers/EstadoController.class
+com/ieslavereda/APIGestionIES/ApiGestionIesApplication.class
+com/ieslavereda/APIGestionIES/models/Estado.class
+com/ieslavereda/APIGestionIES/models/Articulo.class
+com/ieslavereda/APIGestionIES/dao/UbicacionesDao.class
+com/ieslavereda/APIGestionIES/models/Ubicacion.class
+com/ieslavereda/APIGestionIES/dao/ArticuloDao.class
+com/ieslavereda/APIGestionIES/dao/ArticuloDaoImp.class
+com/ieslavereda/APIGestionIES/controllers/ArticuloController.class
+com/ieslavereda/APIGestionIES/dao/EstadoDao.class
+com/ieslavereda/APIGestionIES/dao/EstadoImp.class
+com/ieslavereda/APIGestionIES/controllers/UbicacionesController.class

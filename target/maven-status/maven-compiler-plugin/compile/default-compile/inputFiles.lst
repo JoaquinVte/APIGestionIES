@@ -1,0 +1,13 @@
+/home/joaalsai/Descargas/APIGestionIES/src/main/java/com/ieslavereda/APIGestionIES/models/Estado.java
+/home/joaalsai/Descargas/APIGestionIES/src/main/java/com/ieslavereda/APIGestionIES/dao/UbicacionesDao.java
+/home/joaalsai/Descargas/APIGestionIES/src/main/java/com/ieslavereda/APIGestionIES/dao/ArticuloDao.java
+/home/joaalsai/Descargas/APIGestionIES/src/main/java/com/ieslavereda/APIGestionIES/controllers/EstadoController.java
+/home/joaalsai/Descargas/APIGestionIES/src/main/java/com/ieslavereda/APIGestionIES/ApiGestionIesApplication.java
+/home/joaalsai/Descargas/APIGestionIES/src/main/java/com/ieslavereda/APIGestionIES/models/Articulo.java
+/home/joaalsai/Descargas/APIGestionIES/src/main/java/com/ieslavereda/APIGestionIES/dao/EstadoImp.java
+/home/joaalsai/Descargas/APIGestionIES/src/main/java/com/ieslavereda/APIGestionIES/controllers/UbicacionesController.java
+/home/joaalsai/Descargas/APIGestionIES/src/main/java/com/ieslavereda/APIGestionIES/dao/ArticuloDaoImp.java
+/home/joaalsai/Descargas/APIGestionIES/src/main/java/com/ieslavereda/APIGestionIES/controllers/ArticuloController.java
+/home/joaalsai/Descargas/APIGestionIES/src/main/java/com/ieslavereda/APIGestionIES/dao/EstadoDao.java
+/home/joaalsai/Descargas/APIGestionIES/src/main/java/com/ieslavereda/APIGestionIES/models/Ubicacion.java
+/home/joaalsai/Descargas/APIGestionIES/src/main/java/com/ieslavereda/APIGestionIES/dao/UbicacionesImp.java
